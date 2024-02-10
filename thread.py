@@ -20,4 +20,30 @@ t1.start()
 sleep(0.2)
 t2.start()
 print("Bye")
-'''will print bye in 3rd line if you want to print bye in last line ude t1.join() && t2.join()'''
+'''
+Hello
+Hii
+Bye
+Hello
+Hii
+Hello
+Hii
+Hello
+Hii
+Hello
+Hii
+'''
+'''will print bye in 3rd line by default if you want to print bye \
+in last line use t1.join() \n t2.join() before print("Bye") statement\
+Hello
+Hii
+Hello
+Hii
+Hello
+Hii
+Hello
+Hii
+Hello
+Hii
+Bye
+'''
