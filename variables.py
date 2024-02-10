@@ -15,3 +15,7 @@ car.wheels=6 #class variable changed by class name
 print(c1.com,c1.mil,c1.wheels)
 print(c2.com,c2.mil,c2.wheels)
 
+'''
+BMW 8 6
+BMW 10 6
+'''
